@@ -1,0 +1,11 @@
+{
+   "valid":{
+     "name":"standard_user",
+    "password":"secret_sauce"
+   },
+
+   "invalid":{
+     "name":"standffard_user",
+    "password":"secret_sauce"
+   }
+}
